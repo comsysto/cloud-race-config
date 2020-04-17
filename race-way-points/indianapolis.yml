@@ -1,0 +1,4 @@
+race-way-point:
+  name: "Indianapolis"
+  timeZoneRegion: "Europe/Paris"
+  delay: 10

@@ -1,0 +1,4 @@
+race-way-point:
+  name: "Maison Blanche"
+  timeZoneRegion: "Europe/Paris"
+  delay: 10

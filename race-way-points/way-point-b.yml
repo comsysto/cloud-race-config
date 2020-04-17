@@ -1,3 +1,4 @@
 race-way-point:
   name: "Race way point - B"
   timeZoneRegion: "Europe/Berlin"
+  delay: 10
